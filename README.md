@@ -14,10 +14,3 @@
 **3.** execute o comando `yarn <plataforma-aqui>` ou `npm run <plataforma-aqui>` (android/ios) para que o aplicativo seja instalado no seu dispositivo/emulador.
 
 **4.** execute o comando `yarn start` ou `npm run start` para que o aplicativo se inicie no seu dispositivo/emulador.
-
-### Interface do GeniusGame
-
-<p align="center">
-  <img src="assets/app.png" width="500">
-</p>
-<br>
