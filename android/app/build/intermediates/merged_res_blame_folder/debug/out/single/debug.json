@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_splash_icon.png.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_splash.xml.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\drawable\\background_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_splash_icon.png.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-xhdpi\\splash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_splash_icon.png.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-mdpi\\splash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_splash_icon.png.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\splash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_splash_icon.png.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\mipmap-hdpi\\splash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_launch_screen.xml.flat",
+        "source": "C:\\Users\\brune\\Desktop\\geniusGame\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    }
+]

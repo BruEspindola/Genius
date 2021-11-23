@@ -1,0 +1,16 @@
+com/geniusgame/ReactNativeFlipper.java
+ com.geniusgame.ReactNativeFlipper
+ com.geniusgame.ReactNativeFlipper$1
+ com.geniusgame.ReactNativeFlipper$2
+ com.geniusgame.ReactNativeFlipper$2$1
+com/geniusgame/MainActivity.java
+ com.geniusgame.MainActivity
+com/geniusgame/MainApplication.java
+ com.geniusgame.MainApplication
+ com.geniusgame.MainApplication$1
+com/geniusgame/BuildConfig.java
+ com.geniusgame.BuildConfig
+com/geniusgame/SplashActivity.java
+ com.geniusgame.SplashActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
